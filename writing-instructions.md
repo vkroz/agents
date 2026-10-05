@@ -1,5 +1,5 @@
 ---
-description: Writing guidelines for all documents. When to use: anytime you write a document.
+description: Writing guidelines for all documents. Use anytime you write a document.
 alwaysApply: true
 ---
 
